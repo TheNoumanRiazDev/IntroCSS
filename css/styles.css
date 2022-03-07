@@ -1,0 +1,31 @@
+
+body{
+    background-color: white;
+}
+h1 {
+color: aqua;
+font-size: 100px;
+}
+
+
+img:hover {
+    background-color: gold;
+}
+
+
+
+.Bacon {
+    background-color: green;
+}
+
+.Brocolli {
+    background-color: red;
+}
+
+#heading {
+    color: blue;
+}
+
+#big {
+    font-size: 1000px;
+}
